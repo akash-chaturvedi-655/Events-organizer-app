@@ -1,2 +1,2 @@
-# Nightlife-organizer-app
- Lets you organize nightlife at nearby places around you, hangout, book tables and Party !!
+# Events-organizer-app
+Lets you organize and search events at nearby places around you, hangout, book tables !!
