@@ -12,10 +12,10 @@ function App()
     return(
         <div className="App">        
             <AliceCarousel autoPlay autoWidth autoPlayStrategy="none" disableDotsControls="true" infinite animationType="fadeout" disableButtonsControls autoPlayInterval="2500">
-                <img src={image1} className="sliderimg"/>
-                <img src={image2} className="sliderimg"/>
-                <img src={image3} className="sliderimg"/>
-                <img src={image4} className="sliderimg"/>
+                <img key="1" src={image1} className="sliderimg"/>
+                <img key="2" src={image2} className="sliderimg"/>
+                <img key="3" src={image3} className="sliderimg"/>
+                <img key="4" src={image4} className="sliderimg"/>
             </AliceCarousel>
         </div>
     )
