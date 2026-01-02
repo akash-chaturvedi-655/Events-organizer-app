@@ -1,6 +1,6 @@
-# Nightlife App - Local Setup & Run Guide
+# Event booking App - Local Setup & Run Guide
 
-A nightlife discovery and table-booking platform built with React and Express.js. This app is being modernized to handle 10M+ daily users with Java backend migration and system design improvements.
+An event discovery and table-booking platform built with React and Express.js. This app is being modernized to handle 10M+ daily users with Java backend migration and system design improvements.
 
 ## ✅ Fixed Issues
 
